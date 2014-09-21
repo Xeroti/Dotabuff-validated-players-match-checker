@@ -1,3 +1,3 @@
 Dotabuff-validated-players-match-checker
 ========================================
-Checks a Dotabuff ID for matches played with/against verified players
+A simple C# console application which checks a Dotabuff ID for matches played with/against verified players
